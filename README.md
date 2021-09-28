@@ -43,10 +43,3 @@ This project we are aims to build a Content-based recommender system based on ga
 In this project we built a Content-based recommender system based on games and the similarities between them. we implement two algorithms the first one is Nearest Neighbors which is unsupervised machine learning algorithm. The second one is K-Neighbors Classifier which is supervised algorithm. we didn't use metric to measure the performance since most recommenation system evaluates on how close a recommender from the original point.
  
 
-
-
-# Group Members:
-
-- Hanan Almohammadi 
-- Nesreen Alqahtani
-- Samaher Alharbi
